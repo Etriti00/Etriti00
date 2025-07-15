@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer building the future of AI orchestration
 
-After 6+ years of crafting web applications and leading development teams, I've found my passion at the intersection of elegant code and practical AI solutions. Currently architecting AI-powered features at LinkedClient while building tools that make complex AI workflows accessible to every developer.
+After 6+ years of crafting web applications and leading development teams, I've found my passion at the intersection of elegant code and practical AI solutions. Currently architecting AI-powered features while building tools that make complex AI workflows accessible to everyone.
 
 ### 🚀 What I'm Building
 
