@@ -9,7 +9,7 @@ After 6+ years of crafting web applications and leading development teams, I've 
 #### 🌳 [Bonsai-Tree](https://github.com/Etriti00/Bonsai-Tree)
 An open-source AI orchestration platform that translates natural language into sophisticated multi-AI workflows. Imagine telling it "create an educational video" and watching it coordinate Claude, GPT-4, Stability AI, and ElevenLabs seamlessly.
 
-#### 🤖 Aurelius
+#### 🤖 [Aurelius](https://github.com/Etriti00/Aurelius)
 An AI personal assistant leveraging Supabase and cutting-edge LLMs. Building the future of intelligent, context-aware digital assistants that actually understand what you need.
 
 ### 💡 My Approach
