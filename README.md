@@ -14,7 +14,7 @@ An AI personal assistant leveraging Supabase and cutting-edge LLMs. Building the
 
 ### 💡 My Approach
 
-I believe in building tools that developers actually want to use. Every line of code should solve a real problem, every abstraction should make life easier, and every project should push the boundaries of what's possible. My philosophy:
+I believe in building tools that people actually want to use. Every line of code should solve a real problem, every abstraction should make life easier, and every project should push the boundaries of what's possible. My philosophy:
 
 ```typescript
 const principles = {
