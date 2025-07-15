@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Etrit 👋
+## Hi there, I'm Etrit 👋
 
 ## I'm a Software Engineer building the future of AI orchestration
 
@@ -57,21 +55,11 @@ I'm always excited to collaborate on projects that push the boundaries of what's
 
 - 📧 Email: etritneziri@hotmail.com
 - 📱 Phone: +383 49 133 419
-- 🌍 Location: Tirana, Albania
+- 🌍 Location: Pristina, Kosovo
 - 💼 Open to: Remote opportunities, AI collaborations, Open source contributions
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etriti00&show_icons=true&theme=dark" alt="Etrit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Etriti00&theme=dark" alt="Etrit's GitHub streak" />
-</p>
 
 ---
 
 <p align="center">
-  <i>Building AI tools that developers actually want to use, one commit at a time.</i>
+  <i>Building AI tools that people actually want to use, one commit at a time.</i>
 </p>
