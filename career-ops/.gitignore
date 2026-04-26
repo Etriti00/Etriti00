@@ -23,6 +23,11 @@ modes/_profile.md
 .update-dismissed
 .update-lock
 
+# Personal correspondence (job-search private — like cv.md)
+cover-letters/
+outreach/
+data/apply-log.tsv
+
 # Secrets (never commit — use .env.example as template)
 .env
 
