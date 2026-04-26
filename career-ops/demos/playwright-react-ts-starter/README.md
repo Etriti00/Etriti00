@@ -1,5 +1,8 @@
 # playwright-react-ts-starter
 
+[![ci](https://github.com/Etriti00/playwright-react-ts-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Etriti00/playwright-react-ts-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 A small, opinionated React + TypeScript starter that demonstrates a **dual-test-stack** workflow — Vitest + React Testing Library for unit/component, Playwright for cross-browser E2E — wired into a sharded GitHub Actions matrix for sub-15-min PR feedback.
 
 Built as a working sample of the patterns I use day-to-day.

@@ -1,8 +1,20 @@
 {
   "name": "playwright-react-ts-starter",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "type": "module",
+  "description": "Opinionated React 18 + TypeScript starter with Vitest + Playwright (3 browsers) and sharded GitHub Actions CI.",
+  "author": "Etrit Neziri <etritneziri@hotmail.com> (https://github.com/Etriti00)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Etriti00/playwright-react-ts-starter.git"
+  },
+  "homepage": "https://github.com/Etriti00/playwright-react-ts-starter#readme",
+  "bugs": {
+    "url": "https://github.com/Etriti00/playwright-react-ts-starter/issues"
+  },
+  "keywords": ["react", "typescript", "playwright", "vitest", "testing", "ci", "starter"],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
