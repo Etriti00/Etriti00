@@ -1,2 +1,6 @@
-# Sandbox-handoff snapshots — not for the remote
+# Sandbox-handoff snapshots — not for the remote (contain personal CV data)
 career-ops-etrit-snapshot-*.zip
+etrit-job-applications-*.zip
+
+# Per-applicant meta-doc (contains personal contact info)
+career-ops/APPLICATIONS-README.md
