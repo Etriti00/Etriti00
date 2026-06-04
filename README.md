@@ -1,6 +1,6 @@
 ## Hi there, I'm Etrit 👋
 
-## I'm a Software Engineer building the future of AI orchestration and Automation
+## I'm a Software Engineer building the future of AI Orchestration and Automation
 
 After 7+ years of crafting web applications and leading development teams, I've found my passion at the intersection of elegant code and practical AI solutions. Currently architecting AI-powered features while building tools that make complex AI workflows accessible to everyone.
 
