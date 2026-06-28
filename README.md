@@ -1,65 +1,42 @@
-## Hi there, I'm Etrit 👋
+# Hi, I'm Etrit Neziri 👋
 
-## I'm a Software Engineer building the future of AI Orchestration and Automation
+**Software Engineer** at [LinkedClient AB](https://linkedclient.com) | Pristina, Kosovo
 
-After 7+ years of crafting web applications and leading development teams, I've found my passion at the intersection of elegant code and practical AI solutions. Currently architecting AI-powered features while building tools that make complex AI workflows accessible to everyone.
-
-### 🚀 What I'm Building
-
-#### 🌳 [Bonsai-Tree](https://github.com/Etriti00/Bonsai-Tree)
-An open-source AI orchestration platform that translates natural language into sophisticated multi-AI workflows. Imagine telling it "create an educational video" and watching it coordinate Claude, GPT, Stability AI, and ElevenLabs seamlessly.
-
-#### 🤖 [Aurelius](https://github.com/Etriti00/Aurelius)
-An AI personal assistant leveraging Supabase and cutting-edge LLMs. Building the future of intelligent, context-aware digital assistants that actually understand what you need.
-
-### 💡 My Approach
-
-I believe in building tools that people actually want to use. Every line of code should solve a real problem, every abstraction should make life easier, and every project should push the boundaries of what's possible. My philosophy:
-
-```typescript
-const principles = {
-  buildInPublic: true,
-  failFast: true,
-  documentEverything: true,
-  mentorOthers: true
-};
-```
-
-### 🛠️ Tech Stack & Skills
-
-```javascript
-const skills = {
-  languages: ['TypeScript', 'JavaScript', 'Python', 'Java'],
-  frontend: ['React', 'Next.js', 'Redux', 'TailwindCSS', 'WebSockets'],
-  backend: ['Node.js', 'PostgreSQL', 'REST APIs', 'GraphQL', 'Microservices'],
-  ai_ml: ['LangChain', 'OpenAI', 'Claude', 'pgvector', 'Embeddings'],
-  tools: ['Docker', 'AWS', 'Supabase', 'Git', 'CI/CD', 'Jest', 'Playwright'],
-  exploring: ['AI Orchestration', 'Prompt Engineering', 'Vector Databases']
-};
-```
-
-### 📈 Journey Highlights
-
-- **LinkedClient AB** - Leading AI assistant development with real-time WebSocket integrations
-- **SQA Consulting** - Designed test strategies that reduced bug-fixing time by 40%
-- **Tomplabs Creative** - Rebuilt legacy SaaS platform in 8 months, mentored 4 junior developers
-- **Education** - B.Sc. Computer Science | Google Project Management Certificate
-
-### 🌟 What Drives Me
-
-I stay on the cutting edge of AI by experimenting daily with new models and tools, lurking in developer communities, and even scrolling through TikTok to understand how real users interact with AI. This obsession with both technical depth and user experience helps me build tools that are powerful yet approachable.
-
-### 📫 Let's Connect
-
-I'm always excited to collaborate on projects that push the boundaries of what's possible with AI and web technologies. Whether you're building the next big thing or just want to chat about the future of AI tooling, reach out!
-
-- 📧 Email: etritneziri@hotmail.com
-- 📱 Phone: +383 49 133 419
-- 🌍 Location: Pristina, Kosovo
-- 💼 Open to: Remote opportunities, AI collaborations, Open source contributions
+> "Just a guy trying to build meaningful things that make people's lives easier."
 
 ---
 
-<p align="center">
-  <i>Building AI tools that people actually want to use, one commit at a time.</i>
-</p>
+### 🛠️ What I Work With
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+
+### 🚀 Featured Projects
+
+- 🧠 **[Agent Telepathy](https://github.com/Etriti00/agent-telepathy)** — TPCP: Telepathy Communication Protocol for AI agents ⭐
+- 🤖 **[Aura App](https://github.com/Etriti00/aura-app)** — Your Local AI Sales Agent
+- ⚡ **[Powerful Automations](https://github.com/Etriti00/powerful-automations)** — Automation workflows for modern teams
+- 🌲 **[Cedar App](https://github.com/Etriti00/Cedar-app)** — Full-stack TypeScript application
+
+### 💼 Experience
+
+- **Software Engineer** @ LinkedClient AB (2024–Present) — AI assistant, real-time scheduling, WebSocket integration
+- **SDET** @ SQA Consulting SEE (2022–2024) — Led test automation, 40% faster bug resolution
+- **Software Engineer** @ Tomplabs (2020–2022) — Led 5-person team, rebuilt SaaS in React/Redux
+
+### 📫 Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EtritNeziri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/etrit-neziri)
+[![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/etriti00_19)
+
+---
+
+☕ Support my work — [GitHub Sponsors](https://github.com/sponsors/Etriti00)
